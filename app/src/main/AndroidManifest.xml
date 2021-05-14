@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.a12thnotes">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="12th Arts Notes"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.12thNotes"
+        tools:replace="android:label">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6348881793508382~7323156320"/>
+
+
+        <activity android:name=".splash_screen"><intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
+        <activity android:name=".Pdf_Opener" />
+        <activity android:name=".Paper_listview" />
+        <activity android:name=".Marathi_Webview" />
+        <activity android:name=".Marathi_Activity" />
+        <activity android:name=".Political_Webview" />
+        <activity android:name=".PoliticalActivity" />
+        <activity android:name=".WebsiteYoutube" />
+        <activity android:name=".HistoryWebview" />
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".EcoWebviewEng" />
+        <activity android:name=".EcoActivityEng" />
+        <activity android:name=".eco_eng_mar" />
+        <activity android:name=".EcoWebview" />
+        <activity android:name=".EcoActivity" />
+        <activity android:name=".allsubactivity" />
+        <activity android:name=".webview" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>

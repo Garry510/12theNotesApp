@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">12th Arts Notes</string>
+    <string name="title">12th Artss Notes</string>
+
+    <string-array name="Stories_names">
+        <item>१.सूक्ष्म अर्थशास्त्र आणि स्थूल अर्थशास्त्राचा परिचय</item>
+        <item>२.उपयोगिता विश्लेषण</item>
+        <item>३.अ) मागणीचे विश्लेषण</item>
+        <item>३.ब) मागणीची लवचिकता</item>
+        <item>४.पुरवठा विश्लेषण</item>
+        <item>५.बाजाराचे प्रकार</item>
+        <item>६.निर्देशांक</item>
+        <item>७.राष्ट्रीय उत्पन्न</item>
+        <item>८.भारतातील सार्वजनिक वित्त व्यवहार</item>
+        <item>९.भारतातील नाणे बाजार आणि भांडवल बाजार</item>
+        <item>१०.भारताचा विदेशी व्यापार</item>
+    </string-array>
+
+    <string-array name="Stories_names1">
+        <item>1.Introducation to micro economice and macro economics</item>
+        <item>2.Utilility Analysis</item>
+        <item>3.A Demand Analysis</item>
+        <item>3.B Elasticity of Demand</item>
+        <item>4.Supply Analysis</item>
+        <item>5.Forms of market</item>
+        <item>6.Index numbers</item>
+        <item>7.National Income</item>
+        <item>8.Public finance in india</item>
+        <item>9. Money market and capital market in india</item>
+        <item>10.Foreign trade of india</item>
+    </string-array>
+
+    <string-array name="History">
+        <item>१.युरोपातील प्रबोधन आणि विज्ञानाचा विकास</item>
+        <item>२.युरोपीय वसाहतवाद</item>
+        <item>३.भारत आणि युरोपीय वसाहतवाद</item>
+        <item>४.वसाहतवाद आणि मराठे</item>
+        <item>५.भारत  सामाजिक व धार्मिक सुधारणा</item>
+        <item>६.वसाहतवादाविरुद्ध भारतीयांचा संघर्ष</item>
+        <item>७.भारत  निर्वसाहतीकरण ते एकीकरण</item>
+        <item>८.जागतिक महायुद्धे आणि भारत</item>
+        <item>९.जग निर्वसाहतीकरण</item>
+        <item>१०.शीतयुद्ध</item>
+        <item>११.बदलता भारत-भाग १</item>
+        <item>१२.बदलता भारत-भाग २</item>
+
+    </string-array>
+
+    <string-array name="Political">
+        <item>१.१९९१ नंतरचे जग</item>
+        <item>२.१९९१ नंतरच्या महत्त्वाच्या संकल्पना आणि समस्या  जागतिकीकरण</item>
+        <item>३.१९९१ नंतरच्या महत्त्वाच्या संकल्पना आणि समस्या  मानवतावादी प्रश्न</item>
+        <item>४.समकालीन भारत शांतता, स्थैर्य आणि राष्ट्रीय एकात्मतेसमोरील आव्हाने</item>
+        <item>५.समकालीन भारत सुशासन</item>
+        <item>६.भारत आणि जग</item>
+    </string-array>
+
+    <string-array name="Marathi">
+        <item>१.वेगवशता</item>
+        <item>२.रोज मातीत</item>
+        <item>३.आयुष्य... आनंदाचा उत्सव</item>
+        <item>४.रे थांब जरा आषाढघना</item>
+        <item>५.वीरांना सलामी</item>
+        <item>६.रंग माझा वेगळा</item>
+        <item>६.१.आत्मविश्वाससारखी शक्ती नाही</item>
+        <item>८.रेशीमबंध</item>
+        <item>९.समुद्र कोंडून पडलाय</item>
+        <item>१०.दंतकथा</item>
+        <item>११.आरशातली स्त्री</item>
+        <item>१२.१.जयपूर फूट चे जनक</item>
+        <item>१२.रंगरेषा व्यंगरेषा</item>
+        <item>१३.१.शोध</item>
+        <item>१३.२.गढी</item>
+        <item>१४.१ उपयोजित मराठी</item>
+        <item>१४.२ माहितीपत्रक</item>
+        <item>१४.३ अहवाल</item>
+        <item>१४.४ वृत्तलेख (फिचर रायटिंग)</item>
+        <item>भाग - २  गद्य व पद्य</item>
+        <item>भाग १  गद्य व पद्य</item>
+        <item>भाग ३  साहित्यप्रकार (कथा)</item>
+    </string-array>
+
+    <string-array name="Papers">
+        <item>Economic Paper 2020</item>
+        <item>History Paper 2020</item>
+        <item>Sociology Paper 2020</item>
+        <item>Marathi Paper 2020</item>
+        <item>Political Science Paper 2020</item>
+        <item>English Paper 2020</item>
+    </string-array>
+
+</resources>
